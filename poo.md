@@ -1,6 +1,6 @@
 ![logo](https://github.com/sharhanship/sharhanship/blob/main/1.png)
-<h1 align="center">Hi 👋, I'm Ali sharhan</h1>
-<h3 align="center">I am a web developer. I like backend. Because it is not pretty. You can't test me. Or measure me. Because my code talks to you.....</h3>
+<h1 align="center">Hi (●'◡'●) , I'm Ali sharhan</h1>
+<h3 align="left">I am a web developer. I like backend. Because it is not pretty. You can't test me. Or measure me. Because my code talks to you.....</h3>
 <img align="right" alt="sharhanship" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharhanship&label=Profile%20views&color=0e75b6&style=flat" alt="sharhanship" /> </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharhanship&show_icons=true&locale=en&layout=compact" alt="sharhanship" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharhanship&show_icons=true&locale=en" alt="sharhanship" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharhanship&show_icons=true&locale=en" alt="sharhanship" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharhanship&" alt="sharhanship" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sharhanship&" alt="sharhanship" /></p>
