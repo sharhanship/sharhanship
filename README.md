@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali sharhan</h1>
 <h3 align="center">I am a web developer. I like backend. Because it is not pretty. You can't test me. Or measure me. Because my code talks to you.....</h3>
-<img align="right" alt="sharhanship" src="https://gifdb.com/gif/document-function-coding-7ym5bmzpd6tb5wn3.html?embed=true">
+<img align="right" alt="sharhanship" src="https://media.gifdb.com/document-function-coding-7ym5bmzpd6tb5wn3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharhanship&label=Profile%20views&color=0e75b6&style=flat" alt="sharhanship" /> </p>
 
 - 🔭 I’m currently working on **tafadez**
