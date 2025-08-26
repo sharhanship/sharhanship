@@ -1,83 +1,106 @@
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://github.com/sharhanship/sharhanship/blob/main/sharhan-ship.gif" alt="Ali Sharhan Banner" width="100%">
+</div>
 
-<h1 align="center">سلام <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali Sharhan</h1>
-<h3 align="center">یک توسعه‌دهنده علاقه‌مند به بک‌اند از ایران</h3>
+<h1 align="center">Hello World! 👋 I'm Ali Sharhan</h1>
+<h3 align="center">Backend Developer & .NET Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/sharhanship/sharhanship/blob/main/sharhan-ship.gif" alt="logo" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22DDF7&center=true&vCenter=true&width=500&lines=Backend+Developer;.NET+Specialist;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F90F&center=true&vCenter=true&width=435&lines=I+am+a+Web+Developer;Backend+is+my+passion;My+code+does+the+talking" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmtime1@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/torch2049)
+  
+</div>
+
+---
+
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sharhanship&label=Profile%20views&color=0e75b6&style=flat" alt="sharhanship" /> 
-</p>
+I'm a passionate backend developer with a strong focus on creating robust, scalable, and efficient server-side solutions. I believe that while frontend is about presentation, backend is about logic, structure, and performance - where the real magic happens.
 
-- 🔭 I’m currently working on **Konar_Cast website**
-
-- 🌱 I’m currently learning **Advanced .NET Core & Microservices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sharhanship](https://github.com/sharhanship)
-
-- 💬 Ask me about **C#, .NET, SQL, PHP**
-
-- 📫 How to reach me **abmtime1@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
+- 🔭 **Currently working on:** Konar_Cast - A comprehensive web platform
+- 🌱 **Currently learning:** Advanced .NET Core, Microservices Architecture, and Cloud Technologies
+- 👯 **Looking to collaborate on:** Open-source .NET projects and backend systems
+- 💡 **Interested in:** System design, API development, and database optimization
+- 💬 **Ask me about:** C#, .NET, SQL, Backend Architecture, or PHP
+- ⚡ **Fun fact:** I believe clean code is more about communication than perfection
 
 ---
 
-### 🌐 Live Projects
+## 🌐 Live Projects
 
-- **[Shop DGDO](https://shopdgdo.ir)** - یک فروشگاه اینترنتی
-- **[Khane Azhang](https://khaneazhang.ir)** - یک وب‌سایت برای...
+Here are some of my projects that are currently live:
 
----
-
-### 🤝 Connect with me:
-
-<p align="left">
-<a href="https://instagram.com/torch2049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torch2049" height="30" width="40" /></a>
-<!-- You can add more links like Twitter, LinkedIn, etc. -->
-</p>
+- **[Shop DGDO](https://shopdgdo.ir)** - E-commerce platform with custom features
+- **[Khane Azhang](https://khaneazhang.ir)** - Specialized web application
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  
-  **Backend**<br>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <br>
-  
-  **Frontend**<br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <br>
-  
-  **Database**<br>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <br>
-  
-  **Tools**<br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
-</p>
+### Backend Development
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Databases
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharhanship&show_icons=true&locale=en&layout=compact&theme=radical" alt="sharhanship" />
-</p>
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharhanship&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="sharhanship's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharhanship&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="sharhanship's most used languages" />
+  
+</div>
 
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sharhanship&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- **Email:** [abmtime1@gmail.com](mailto:abmtime1@gmail.com)
+- **Instagram:** [@torch2049](https://instagram.com/torch2049)
+- **Location:** Iran, UTC+3:30
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=sharhanship&style=for-the-badge&color=blueviolet)
+  
+  *Thanks for visiting my profile! Have a great day! ✨*
+  
+</div>
