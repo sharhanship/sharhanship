@@ -4,11 +4,7 @@
 <img align="right" alt="sharhanship" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharhanship&label=Profile%20views&color=0e75b6&style=flat" alt="sharhanship" /> </p>
 
-- 🔭 I’m currently working on **khaneazhang**
-
-- 🌱 I’m currently learning **laravel**
-
-- 💬 Ask me about **php , wpf**
+- 🔭 I’m currently working on **Konar_Cast website**
 
 - 📫 How to reach me **abmtime1@gmail.com**
 
