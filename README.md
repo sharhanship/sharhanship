@@ -1,10 +1,10 @@
-<!-- Banner (You can create one on canva.com or use a service like https://github.com/kyechan99/capsule-render) -->
-<p align="center">
-  <img src="https://github.com/sharhanship/sharhanship/blob/main/sharhan-ship.gif" alt="logo" width="100%">
-</p>
 
 <h1 align="center">سلام <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali Sharhan</h1>
 <h3 align="center">یک توسعه‌دهنده علاقه‌مند به بک‌اند از ایران</h3>
+
+<p align="center">
+  <img src="https://github.com/sharhanship/sharhanship/blob/main/sharhan-ship.gif" alt="logo" width="100%">
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F90F&center=true&vCenter=true&width=435&lines=I+am+a+Web+Developer;Backend+is+my+passion;My+code+does+the+talking" alt="Typing SVG" /></a>
@@ -14,7 +14,6 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sharhanship&label=Profile%20views&color=0e75b6&style=flat" alt="sharhanship" /> 
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="yourtwitter" /></a>
 </p>
 
 - 🔭 I’m currently working on **Konar_Cast website**
@@ -82,8 +81,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharhanship&show_icons=true&locale=en&layout=compact&theme=radical" alt="sharhanship" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharhanship&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="sharhanship">
-</p>
