@@ -79,11 +79,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharhanship&show_icons=true&locale=en&theme=radical" alt="sharhanship" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharhanship&theme=radical" alt="sharhanship" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharhanship&show_icons=true&locale=en&layout=compact&theme=radical" alt="sharhanship" />
 </p>
 
