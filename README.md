@@ -1,10 +1,7 @@
 <!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://github.com/sharhanship/sharhanship/blob/main/sharhan-ship.gif" alt="Ali Sharhan Banner" width="100%">
-</div>
 
-<h1 align="center">Hello World! 👋 I'm Ali Sharhan</h1>
-<h3 align="center">Backend Developer & .NET Enthusiast</h3>
+<h1 align="center">Hello! 👋 I'm Ali Sharhan</h1>
+<h3 align="center">Just a Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,13 +10,20 @@
 </p>
 
 <div align="center">
+  <img src="https://github.com/sharhanship/sharhanship/blob/main/sharhan-ship.gif" alt="Ali Sharhan Banner" width="100%">
+</div>
+
+
+
+<div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmtime1@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/torch2049)
   
 </div>
+
+  ![Visitor Count](https://komarev.com/ghpvc/?username=sharhanship&style=for-the-badge&color=blueviolet)
 
 ---
 
@@ -42,8 +46,8 @@ I'm a passionate backend developer with a strong focus on creating robust, scala
 
 Here are some of my projects that are currently live:
 
-- **[Shop DGDO](https://shopdgdo.ir)** - E-commerce platform with custom features
-- **[Khane Azhang](https://khaneazhang.ir)** - Specialized web application
+- **[Shop DGDO](https://shopdgdo.ir)**
+- **[Khane Azhang](https://khaneazhang.ir)**
 
 ---
 
@@ -73,16 +77,7 @@ Here are some of my projects that are currently live:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharhanship&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="sharhanship's stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharhanship&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="sharhanship's most used languages" />
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=sharhanship&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-  
 </div>
 
 ---
@@ -92,14 +87,14 @@ Here are some of my projects that are currently live:
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - **Email:** [abmtime1@gmail.com](mailto:abmtime1@gmail.com)
-- **Instagram:** [@torch2049](https://instagram.com/torch2049)
+- **Instagram:** [@sharhan_ship](https://instagram.com/sharhan_ship)
 - **Location:** Iran, UTC+3:30
 
 ---
 
 <div align="center">
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=sharhanship&style=for-the-badge&color=blueviolet)
+
   
   *Thanks for visiting my profile! Have a great day! ✨*
   
