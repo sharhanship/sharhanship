@@ -87,7 +87,7 @@ Here are some of my projects that are currently live:
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - **Email:** [abmtime1@gmail.com](mailto:abmtime1@gmail.com)
-- **Instagram:** [@sharhan_ship](https://instagram.com/sharhan_ship)
+- **Instagram:** [@sharhan_ship](https://instagram.com/dev_genesis)
 - **Location:** Iran, UTC+3:30
 
 ---
